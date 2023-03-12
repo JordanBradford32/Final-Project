@@ -29,7 +29,7 @@ In this tutorial, I will observe the change in the IPv4 adresssing with my PC an
 <img src="https://i.imgur.com/gZFScoZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-First I created both a resource group and a Virtual machine inside the resourse group. I then went back into the virtual machine and found the public IPv4 address.
+First I created both a resource group and a Virtual machine inside the resource group. I then went back into the virtual machine and found the public IPv4 address.
 </p>
 <br />
 
