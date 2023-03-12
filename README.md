@@ -37,7 +37,7 @@ First I created both a resource group and a Virtual machine inside the resource 
 <img src="https://i.imgur.com/i85tRBj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I then connected to microsoft remote desktop, using the public IP address i got from the Azure virtual machine. After I logged in, I went to whatismyipaddress.com. From there I seen the IPv4 address was the same from the virtual machine, but the location Was not the location I'm currently in. 
+I then connected to microsoft remote desktop, using the public IP address I got from the Azure virtual machine. After I logged in, I went to whatismyipaddress.com. From there I noticed the IPv4 address was the same from the virtual machine, but the location Was not the location I'm currently in. 
 </p>
 <br />
 
